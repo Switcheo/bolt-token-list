@@ -1,0 +1,24 @@
+{
+  "name": "Bolt Default List",
+  "timestamp": "2024-04-02T08:10:28.668Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 1
+  },
+  "logoURI": "https://pancakeswap.finance/logo.png",
+  "keywords": [
+    "boltchain",
+    "default"
+  ],
+  "tokens": [
+    {
+      "name": "StakingTest",
+      "address": "0x5d39c4d5f717eef378e787a7e880d00c23647f46",
+      "symbol": "STK",
+      "decimals": 18,
+      "chainId": 42070,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+    }
+  ]
+}
