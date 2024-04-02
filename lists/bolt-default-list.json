@@ -1,12 +1,12 @@
 {
   "name": "Bolt Default List",
-  "timestamp": "2024-04-02T08:10:28.668Z",
+  "timestamp": "2024-04-02T09:21:50.138Z",
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 1
+    "patch": 2
   },
-  "logoURI": "https://pancakeswap.finance/logo.png",
+  "logoURI": "https://raw.githubusercontent.com/Switcheo/bolt-token-list/master/public/bolt-icon.png",
   "keywords": [
     "boltchain",
     "default"

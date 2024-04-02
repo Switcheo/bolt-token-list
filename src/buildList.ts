@@ -21,7 +21,7 @@ const lists = {
     list: boltDefaultList,
     name: "Bolt Default List",
     keywords: ["boltchain", "default"],
-    logoURI: "https://pancakeswap.finance/logo.png",
+    logoURI: "https://raw.githubusercontent.com/Switcheo/bolt-token-list/master/public/bolt-icon.png",
     sort: true,
     currentVersion: boltDefaultVersion,
   },
