@@ -9,7 +9,9 @@
   "scripts": {
     "generate": "yarn build && node ./dist ci-check && node ./dist generate bolt-default-list patch",
     "build": "rm -rf ./dist && rollup -c",
-    "ci-check": "yarn build && node ./dist ci-check"
+    "ci-check": "yarn build && node ./dist ci-check",
+    "ci-check-auto": "node ./dist ci-check",
+    "generate-auto": "node ./dist generate bolt-default-list patch"
   },
   "dependencies": {
     "@uniswap/token-lists": "^1.0.0-beta.21",
