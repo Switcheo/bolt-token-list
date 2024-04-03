@@ -22,7 +22,7 @@ Merge this PR to master. If it passes validation checks, a new PR will be auto g
 
 Add token information to ```src/tokens/bolt-default-list.json```.
 
-Run the following comman: 
+Run the following command: 
 
 ```bash
 yarn generate
