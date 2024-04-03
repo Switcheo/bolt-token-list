@@ -6,5 +6,13 @@
     "decimals": 18,
     "chainId": 42070,
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+  },
+  {
+    "name": "OurToken",
+    "address": "0x3962f6bfade976e707ef1c3d3cf94d9200f9072d",
+    "symbol": "OTK",
+    "decimals": 18,
+    "chainId": 42070,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
   }
 ]
