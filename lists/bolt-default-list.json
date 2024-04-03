@@ -1,10 +1,10 @@
 {
   "name": "Bolt Default List",
-  "timestamp": "2024-04-03T06:48:38.501Z",
+  "timestamp": "2024-04-03T06:53:13.887Z",
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 2
+    "patch": 3
   },
   "logoURI": "https://raw.githubusercontent.com/Switcheo/bolt-token-list/master/public/bolt-icon.png",
   "keywords": [
@@ -12,14 +12,6 @@
     "default"
   ],
   "tokens": [
-    {
-      "name": "OurToken",
-      "address": "0x3962f6bfade976e707ef1c3d3cf94d9200f9072d",
-      "symbol": "OTK",
-      "decimals": 18,
-      "chainId": 42070,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
-    },
     {
       "name": "StakingTest",
       "address": "0x5d39c4d5f717eef378e787a7e880d00c23647f46",
