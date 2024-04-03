@@ -1,7 +1,7 @@
 on:
   pull_request:
     branches:
-      - master
+      - test/github-workflow
 name: Token List Generation
 jobs: 
   generate_lists:
@@ -27,3 +27,12 @@ jobs:
 
       - name: CI Check
         run: yarn ci-check-auto
+
+      - name: Create Pull Request
+        uses: peter-evans/create-pull-request@v3
+        with:
+          title: Token list updated
+          body: |
+            This PR updates the token list.
+          branch: chore/update-token-list
+          base: test/github-workflow
