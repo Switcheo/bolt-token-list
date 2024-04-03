@@ -7,10 +7,11 @@
   "author": "adityajirafe <adityavj2000@yahoo.com.sg>",
   "license": "MIT",
   "scripts": {
-    "generate": "yarn build && node ./dist ci-check && node ./dist generate bolt-default-list patch",
+    "generate": "yarn build-list && yarn ci-check",
     "build": "rm -rf ./dist && rollup -c",
+    "build-list": "yarn build && node ./dist generate bolt-default-list patch",
     "ci-check": "yarn build && node ./dist ci-check",
-    "ci-check-auto": "node ./dist ci-check",
+    "ci-check-auto": "yarn build && node ./dist ci-check",
     "generate-auto": "node ./dist generate bolt-default-list patch"
   },
   "dependencies": {

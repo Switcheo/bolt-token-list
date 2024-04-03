@@ -22,8 +22,8 @@ jobs:
       - name: Build ./dist
         run: yarn build
 
-      - name: CI Check
-        run: yarn ci-check-auto
-      
       - name: Generate Token List
         run: yarn generate-auto
+
+      - name: CI Check
+        run: yarn ci-check-auto
