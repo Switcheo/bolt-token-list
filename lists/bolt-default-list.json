@@ -1,10 +1,10 @@
 {
   "name": "Bolt Default List",
-  "timestamp": "2024-04-03T06:13:03.086Z",
+  "timestamp": "2024-04-03T06:35:48.138Z",
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 4
+    "patch": 5
   },
   "logoURI": "https://raw.githubusercontent.com/Switcheo/bolt-token-list/master/public/bolt-icon.png",
   "keywords": [
@@ -12,30 +12,6 @@
     "default"
   ],
   "tokens": [
-    {
-      "name": "OurToken2",
-      "address": "0x3962f6bfade976e707ef1c3d3cf94d9200f9072d",
-      "symbol": "OTK",
-      "decimals": 18,
-      "chainId": 42070,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
-    },
-    {
-      "name": "OurToken3",
-      "address": "0x3962f6bfade976e707ef1c3d3cf94d9200f9072d",
-      "symbol": "OTK3",
-      "decimals": 18,
-      "chainId": 42070,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
-    },
-    {
-      "name": "OurToken4",
-      "address": "0x3962f6bfade976e707ef1c3d3cf94d9200f9072d",
-      "symbol": "OTK4",
-      "decimals": 18,
-      "chainId": 42070,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
-    },
     {
       "name": "StakingTest",
       "address": "0x5d39c4d5f717eef378e787a7e880d00c23647f46",
