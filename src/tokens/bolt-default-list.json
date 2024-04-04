@@ -6,5 +6,21 @@
     "decimals": 18,
     "chainId": 42070,
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
-  }
+  },
+  {
+    "name": "FAKEPEPE",
+    "address": "0x5e2ad6a93214b9d2db3ca9f12dd2ecee29602ec4",
+    "symbol": "FPEPE",
+    "decimals": 18,
+    "chainId": 42070,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+  },
+  {
+    "name": "IVENPUN",
+    "address": "0x945c04c9d23bDCDa13eFba68eef478EF0Af416c4",
+    "symbol": "IVEN",
+    "decimals": 18,
+    "chainId": 42070,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+  },
 ]
